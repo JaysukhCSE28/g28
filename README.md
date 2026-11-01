@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jaysukhsesham/g28.git
+git clone https://github.com/JaysukhCSE28/g28.git
 cd g28
 
 # 2. Install dependencies
@@ -57,7 +57,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Deploy instantly to Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jaysukhsesham/g28)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JaysukhCSE28/g28)
 
 No environment variables are needed for deployment.
 
@@ -66,4 +66,4 @@ No environment variables are needed for deployment.
 ## Author
 
 **Jaysukh Sesham**
-GitHub: [@jaysukhsesham](https://github.com/jaysukhsesham)
+GitHub: [@JaysukhCSE28](https://github.com/JaysukhCSE28)

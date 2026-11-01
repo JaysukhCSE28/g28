@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="container py-6 md:flex md:items-center md:justify-between">
       <div className="flex md:space-x-6 space-x-1 md:order-2">
         <a
-          href="https://github.com/jaysukhsesham"
+          href="https://github.com/JaysukhCSE28"
           target="_blank"
           rel="noopener noreferrer"
         >
