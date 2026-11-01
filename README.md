@@ -168,9 +168,3 @@ const securityHeaders = [
 - **Role:** Lead Project Architect & Developer
 
 ---
-
-## ⚖️ Open-Source Attribution & License
-
-Distributed under the **MIT License**.
-
-> **Attribution:** G28 is re-engineered from the foundational architecture of the open-source [gatecsetracker](https://github.com/PritishMishraa/gatecsetracker) by **Pritish Mishra**. Refactored, branded, and optimized for the 2028 GATE CSE cycle by Jaysukh Sesham.
