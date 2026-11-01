@@ -1,0 +1,16 @@
+{
+  "name": "G28 - GATE CSE 2028 Tracker",
+  "short_name": "G28",
+  "description": "An interactive visual roadmap for GATE CSE 2028 aspirants to track subject completion, video lectures, and study progress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
