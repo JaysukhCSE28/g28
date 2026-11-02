@@ -109,22 +109,6 @@ G28 organizes and indexes hundreds of hours of high-yield lectures across the co
 - **Node.js** `>= 18.17.0`
 - **npm** or **pnpm**
 
-### Installation
-
-```bash
-# 1. Clone repository
-git clone https://github.com/JaysukhCSE28/g28.git
-cd g28
-
-# 2. Install dependencies
-npm install
-
-# 3. Launch development server
-npm run dev
-```
-
-Visit [`http://localhost:3000`](http://localhost:3000) to inspect the live local build.
-
 ### Production Build & Verification
 
 ```bash
